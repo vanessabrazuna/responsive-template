@@ -11,7 +11,7 @@ GLOBAL
 }
 
 html {
-    /* responsividade */
+    /* responsividade - a cada 1rem será considerado como 10px */
     font-size: 62.5%;
 }
 

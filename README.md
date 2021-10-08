@@ -93,3 +93,13 @@ Usar a tag `<picture>` para que as imagens sejam responsivas.
 Sempre que possível, usar SVG ao invés de JPG, PNG.
 
 
+
+## Desktop:
+![webpage](https://user-images.githubusercontent.com/73675022/136587420-5dfb4a9f-1a10-422d-b52f-6cc727cf7a32.png)
+
+## Mobile:
+![webpage](https://user-images.githubusercontent.com/73675022/136587374-5de192e5-6c8d-4764-97f9-21002a0b629f.png)
+
+## Mobile-menu-open:
+![webpage](https://user-images.githubusercontent.com/73675022/136587446-a93aed31-6926-464a-96d2-926ca445354a.png)
+

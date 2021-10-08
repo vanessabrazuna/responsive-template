@@ -94,4 +94,4 @@ Sempre que possível, usar SVG ao invés de JPG, PNG.
 
 
 ### Desktop | Mobile:
-![webpage](https://i.imgur.com/gallery/9tv4FRg)
+![webpage](https://i.imgur.com/9tv4FRg.png)

@@ -93,5 +93,3 @@ Usar a tag `<picture>` para que as imagens sejam responsivas.
 Sempre que possível, usar SVG ao invés de JPG, PNG.
 
 
-### Desktop | Mobile:
-![webpage](https://i.imgur.com/9tv4FRg.png)

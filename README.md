@@ -94,12 +94,14 @@ Sempre que possível, usar SVG ao invés de JPG, PNG.
 
 
 
+
 ## Desktop:
 ![webpage](https://user-images.githubusercontent.com/73675022/136587420-5dfb4a9f-1a10-422d-b52f-6cc727cf7a32.png)
 
-## Mobile:
-![webpage](https://user-images.githubusercontent.com/73675022/136587374-5de192e5-6c8d-4764-97f9-21002a0b629f.png)
+## Tablet:
+![tablet](https://user-images.githubusercontent.com/73675022/136589806-60c7c4a6-dc2b-4d42-8fd5-0f072a02830e.png)
 
-## Mobile-menu-open:
-![webpage](https://user-images.githubusercontent.com/73675022/136587446-a93aed31-6926-464a-96d2-926ca445354a.png)
+## Mobile:
+![mobille](https://user-images.githubusercontent.com/73675022/136589756-25cbf715-65dd-47cd-851c-81f4a3b09b7d.png) &nbsp;&nbsp;&nbsp;&nbsp; ![mobile-menu-open](https://user-images.githubusercontent.com/73675022/136589743-070b5b27-2995-4523-9fe2-0b217bf897fc.png)
+
 

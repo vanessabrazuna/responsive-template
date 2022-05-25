@@ -1,10 +1,10 @@
-# Responsividade 
+# Responsiveness
 
-Criando um site responsivo com layouts flexiveis de acordo com o dispositivo acessado. Sendo ele smartphone, tablet ou desktop. E até mesmo uma impressora.
+Creating a responsive website with flexible layouts according to the device accessed. Whether it's smartphone, tablet or desktop. And even a printer.
 
-Usando estratégias de CSS Units para que tanto o nosso Layout, quanto os nossos textos, fiquem fluidos. 
+Using CSS Units strategies so that both our Layout and our texts are fluid.
 
-Utilizaremos também CSS Media Queries para adicionar CSS customizados conforme o breakpoint definido, para que nosso layout fique adaptado ao viewport do dispositivo. 
+We will also use CSS Media Queries to add custom CSS according to the defined breakpoint, so that our layout is adapted to the device's viewport.
 
 
 ## Resources
@@ -13,41 +13,39 @@ Utilizaremos também CSS Media Queries para adicionar CSS customizados conforme 
 - [x] SVG Images
 
 
-Notas importantes! 📝
+Important notes!📝
 
 
 ## CSS Units
 
-Unidades de medidas do CSS
+CSS measurement units
 
-Layout Fixo
+Fixed Layout
 `px` - Pixels
 
-Layout Fluido
-`%` - Porcentagem
-`auto` - Automática
+Fluid Layout
+`%` - Percentage
+`auto` - Automatic
 `vh` - Viewport Height
 `vw` - Viewport Width
 
-Textos fixos
+Fixed texts
 `1px` = 0.75pt
 `16px` = 12pt
 
-Texto fluidos
-`em` - multiplicado pelo pai 
-`rem` - multiplicado pelo root
+fluid text
+`in` - multiplied by the parent
+`rem` - multiplied by root
 
+## CSS Media Queries
 
-## CSS Media Queries 
-
-No HTMl colocar a seguinte tag meta
+In HTMl put the following meta tag
 
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
 
-No CSS usar da seguinte forma
-
+In CSS use as follows
 ```css
 @media (max-width: 320px) {
   #form h3 {
@@ -59,8 +57,7 @@ No CSS usar da seguinte forma
 
 ## HTML Media Attrib.
 
-Utilizar o atribuito `media` no link do meu HTML, ao importar um arquivo css, usando as propriedades da mesma forma que usaria na regra `@media` do css.
-
+Use the `media` attribute in my HTML link, when importing a css file, using the properties the same way you would in the `@media` css rule.
 ```html
 <link 
     rel="stylesheet"
@@ -72,9 +69,9 @@ Utilizar o atribuito `media` no link do meu HTML, ao importar um arquivo css, us
 ```
 
 
-## Imagens
+## Images
 
-Usar a tag `<picture>` para que as imagens sejam responsivas.
+Use the `<picture>` tag to make images responsive.
 
 ```html
 <picture class="image" alt="Imagem">
@@ -90,7 +87,7 @@ Usar a tag `<picture>` para que as imagens sejam responsivas.
         alt="Imagem" />
 </picture>
 ```
-Sempre que possível, usar SVG ao invés de JPG, PNG.
+Whenever possible, use SVG instead of JPG, PNG.
 
 
 

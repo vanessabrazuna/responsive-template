@@ -89,16 +89,3 @@ Use the `<picture>` tag to make images responsive.
 ```
 Whenever possible, use SVG instead of JPG, PNG.
 
-
-
-
-## Desktop:
-![webpage](https://user-images.githubusercontent.com/73675022/136587420-5dfb4a9f-1a10-422d-b52f-6cc727cf7a32.png)
-
-## Tablet:
-![tablet](https://user-images.githubusercontent.com/73675022/136589806-60c7c4a6-dc2b-4d42-8fd5-0f072a02830e.png)
-
-## Mobile:
-![mobille](https://user-images.githubusercontent.com/73675022/136589756-25cbf715-65dd-47cd-851c-81f4a3b09b7d.png) &nbsp;&nbsp;&nbsp;&nbsp; ![mobile-menu-open](https://user-images.githubusercontent.com/73675022/136589743-070b5b27-2995-4523-9fe2-0b217bf897fc.png)
-
-
